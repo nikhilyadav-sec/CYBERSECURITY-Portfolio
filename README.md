@@ -15,6 +15,14 @@ This repository contains hands-on cybersecurity labs and documentation focused o
 - Wireshark
 - tcpdump
 
+## Featured Projects
+
+### Threat Intelligence Pipeline (AbuseIPDB + Splunk)
+- Repository: https://github.com/nikhilyadav-sec/threat-intelligence-abuseipdb-splunk-v2
+- Built a Python pipeline to ingest live AbuseIPDB IOC data into Splunk HEC.
+- Implemented risk scoring, SOC dashboard panels, and alerting workflow.
+- Includes setup guide, runbook, and screenshot-based evidence.
+
 ## About This Portfolio
 All activities in this repository were performed in controlled lab environments for learning and practice purposes only.  
 This portfolio is intended to demonstrate practical understanding of security monitoring workflows and SOC-relevant skills.
